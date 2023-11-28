@@ -321,6 +321,12 @@ h3 {
 	}
 }
 
+/** cases */
+#cases {
+	margin: 40px 0;
+	width: 100%;
+}
+
 /** company */
 #company {
 	margin: var(--gutter) auto;
